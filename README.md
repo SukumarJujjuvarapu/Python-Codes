@@ -1,8 +1,8 @@
 📌 Goals of this Repository
-Practice core Python skills
-Strengthen DSA knowledge
-Prepare for coding interviews
-Help students and beginners revise topics quickly
+-Practice core Python skills
+-Strengthen DSA knowledge
+-Prepare for coding interviews
+-Help students and beginners revise topics quickly
 
 
 ## ✅ What You’ll Learn
