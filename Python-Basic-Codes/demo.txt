@@ -1,8 +1,0 @@
-why you opened my thingsopened my thingsopened my thingsdont so that dont so that dont so that
-  pop:
-progs are divided into functions
-no acces specifiers
-no data security
-no overloading
-  oop:
-  
